@@ -3,4 +3,4 @@
 This project was developed with the following technologies: • HTML • CSS • SASS • JavaScript
 
 
-Live Link: https://adapaaa.github.io/GYM-Website-/
+Live Link: https://adapaaa.github.io/Company-Website/
